@@ -30,13 +30,9 @@
         <view class="item">9</view>
         <view class="item">10</view>
       </view>
-    </view>    
+    </view>
+    <view>
+      测试提交，请接收
+    </view> 
   </view>
-<!--商品-->
-<view>
-  <view>
-    <text>成功提交，请取出数据</text>
-    <text>6666</text>
-  </view>
-</view>
 </scroll-view>
