@@ -34,5 +34,9 @@
     <view>
       测试提交，请接收
     </view> 
+
+    <view class="aa">
+      第二次数据，请接收.
+    </view>
   </view>
 </scroll-view>
