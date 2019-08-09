@@ -35,7 +35,7 @@
 <!--商品-->
 <view>
   <view>
-    
+      <text>我的第一次修改！</text>
   </view>
 </view>
 </scroll-view>
