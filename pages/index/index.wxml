@@ -1,0 +1,41 @@
+<!--index.wxml-->
+<scroll-view>
+<!--Top-->
+  <view id="index_top">
+    <text>做全人类的健康贴心使者</text>
+  </view>
+<!--小框框-->
+  <view id="main_top">
+    <view id="main_top_centenxt">
+      123
+    </view>
+  </view>  
+<!--分类+搜索-->
+  <view id="main">
+    <view id="main_classification">
+      <!--搜索-->
+      <view id="main_Search">
+        <input value="搜索商品"></input>
+      </view>
+      <!--分类-->
+      <view class="classification">
+        <view class="item">1</view>
+        <view class="item">2</view>
+        <view class="item">3</view>
+        <view class="item">4</view>      
+        <view class="item">5</view>
+        <view class="item">6</view>
+        <view class="item">7</view>
+        <view class="item">8</view>
+        <view class="item">9</view>
+        <view class="item">10</view>
+      </view>
+    </view>    
+  </view>
+<!--商品-->
+<view>
+  <view>
+    
+  </view>
+</view>
+</scroll-view>

@@ -1,0 +1,57 @@
+/**index.wxss**/
+#index_top{
+  background-color: red;
+  text-align: center;
+}
+#main_top{
+  margin-top: 1%;
+  height: 18vh;
+  width: 100%;
+  background-color: darkgray;
+  position:relative;
+}
+#main_top_centenxt{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: white;
+  width: 95%;
+  height: 80%;
+  border-radius:1vw; 
+}
+#main{
+  width: 100%;
+  height: 100vh;
+  background-color:rgb(198, 209, 213);
+}
+#main_classification{
+  background-color: white;
+  margin:0 1% 1% 1%;
+  border-radius:1vw; 
+  height: 32vh;
+}
+#main_Search{
+  background-color: rgb(198, 209, 213);
+  width: 95%;
+  height: 5vh;
+  margin: 0 auto;
+  margin-top: 1%;
+  border-radius:4vw; 
+  text-align: center;
+  font-size: 4vw;
+}
+.classification{
+  width: 100%;
+  margin-top: 0.4em;
+}
+.item{
+  text-align: center;
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+  margin-bottom: 7px;
+  border-radius:50%; 
+  background-color:#0074e0;
+}
