@@ -35,5 +35,8 @@
     <view class="aa">
       第二次数据，请接收.
     </view>
+    <view>
+      第三次数据，请查收。
+    </view>
   </view>
 </scroll-view>
